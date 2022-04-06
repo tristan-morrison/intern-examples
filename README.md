@@ -1,3 +1,9 @@
+This repo provides a minimal repro setup for issue [#146002](https://github.com/microsoft/vscode/issues/146002) in the VS Code [repo](https://github.com/microsoft/vscode). The issue involves apparent freezing/hanging of the VS Code debugger when debugging an app in the browser using the integrated console.
+
+The repro case provided here is taken from the repo https://github.com/theintern/intern-examples — specifically, from the package `typescript-example` within that repo. The original README for that package is reproduced below.
+
+---------------------
+
 # typescript-example
 
 This example uses Intern to test a jQuery + Backbone TodoMVC app written in TypeScript.
