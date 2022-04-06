@@ -1,3 +1,0 @@
-define([
-	'./todoModel'
-], function () {});

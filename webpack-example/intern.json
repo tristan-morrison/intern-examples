@@ -1,4 +1,0 @@
-{
-    "environments": { "browserName": "chrome", "fixSessionCapabilities": "no-detect" },
-    "browser": { "suites": "dist/tests.js" }
-}
