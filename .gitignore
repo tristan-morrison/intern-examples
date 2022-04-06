@@ -2,3 +2,4 @@ sauce_connect.log*
 node_modules
 html-report
 .DS_Store
+*.js
